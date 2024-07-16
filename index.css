@@ -18,8 +18,7 @@ nav ul li {
 }
 
 nav ul li a {
-    /* margin-left: 60px;
-    margin-right: 30px; */
+    
     display: block;
     color: black;
     text-align: center;
@@ -44,12 +43,12 @@ nav ul li a:hover {
     align-items: center;
     justify-content: center;
     text-align: center;
-    margin: 20px 0; /* Optional: Adds some margin around the container */
+    margin: 20px 0; 
 }
 
 .center-content h1,
 .center-content p {
-    margin: 10px 0; /* Optional: Adjust the margin between elements */
+    margin: 10px 0; 
 }
 
 .course-card{
@@ -128,58 +127,7 @@ section#course-library {
     background-color: #218838;
 }
 
-/* .course-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-}
 
-.course-card {
-    background-color: #f9f9f9;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 16px;
-    width: calc(33% - 20px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    text-align: center;
-}
-
-.course-card img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-}
-
-.course-card .label {
-    display: block;
-    margin: 8px 0;
-    color: #fff;
-    background-color: #007bff;
-    padding: 4px 8px;
-    border-radius: 4px;
-}
-
-.course-card h2 {
-    margin: 8px 0;
-    font-size: 1.2em;
-}
-
-.course-card p {
-    margin: 8px 0;
-}
-
-.course-card button {
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 4px;
-    cursor: pointer;
-}
-
-.course-card button:hover {
-    background-color: #0056b3;
-} */
 
 .price {
     font-size: 1.2em;
